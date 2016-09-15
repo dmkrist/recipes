@@ -1,0 +1,11 @@
+Ingredients:
+ - phone
+ - local pizza-shop's phone number
+ - imagination
+
+Directions:
+ 1. Fetch your phone and dial your local pizza provider.
+ 
+ 2. Ask about the choice they provide and combine toppings as you wish.
+ 
+ 3. Wait for your pizza to arrive.
